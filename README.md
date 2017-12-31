@@ -31,7 +31,7 @@ This method implements this functionality.
 
 We also import the stopwords from the NLTK package to create a bag of words to include only those words which are significant in capturing the sentiment of the review.
 
-6.Train/Test data split: 
+6. Train/Test data split: 
 
 The entire data of 50k is Test and Training data in the rati of 50:50 each(25k each)
 
